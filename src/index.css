@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.heading{
+  background-color: #0265e7;
+  text-align: center;
+  margin-bottom: 0;
+}
+.pricing{
+  margin-top: 0;
+}
